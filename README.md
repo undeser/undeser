@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! Mervyn here! 👋
+
+#### Connect with me on LinkedIn!
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://www.linkedin.com/in/mervseah/)
+
 
 <!--
 **undeser/undeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
