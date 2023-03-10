@@ -2,7 +2,7 @@
 
 Hey, I am Mervyn and I go by `undeser` on most online spaces.
 
-- 🏠 Born and raised in Singapore 🇸🇬
+- 🏠 Living in Singapore 🇸🇬
 - 💻 Currently studying Business Analytics at National University of Singapore (NUS)
 - 👨‍🏫 Educating & inculcating programming fundamentals as a Teaching Assistant
 - 🔭 Working on my pet projects
