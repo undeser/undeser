@@ -1,7 +1,23 @@
 ### Hello World! Mervyn here! 👋
 
+Hey, I am Mervyn and I go by `undeser` on most online spaces.
+
+🏠 I’m currently living in Singapore 🇸🇬
+
+👨‍💻 I’m currently studying at Business Analytics at National University of Singapore (NUS)
+
+🔭 I’m currently working on my pet projects
+
+🌱 I’m currently learning Solidity 🤦‍♂
+
+☕️ I’m coffeer.
+
+⚡ Bla bla bla...
+
 #### Connect with me on LinkedIn!
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://www.linkedin.com/in/mervseah/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://www.linkedin.com/in/mervseah/) 
+
+
 
 
 <!--
