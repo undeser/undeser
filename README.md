@@ -3,10 +3,9 @@
 Hey, I am Mervyn and I go by `undeser` on most online spaces.
 
 - 🇸🇬 Living in Singapore 
-- 💻 Currently studying Business Analytics at National University of Singapore (NUS)
-- 👨‍🏫 Educating & inculcating programming fundamentals as a Teaching Assistant
+- 💻 Penultimate Computing (Business Analytics) at National University of Singapore (NUS)
 - 🔭 Working on my pet projects
-- 🌱 I’m currently learning Solidity 🤦‍♂
+- 💿 Huge vinyl collector
 - 🎧 _Ask me about my Spotify playlists_
 
 #### Connect with me on socials!
