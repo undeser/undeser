@@ -1,12 +1,4 @@
-### Hello World! 👋
-
-Hey, I am Mervyn and I go by `undeser` on most online spaces.
-
--   🇸🇬 Living in Singapore
--   💻 Final Year Computing (Business Analytics) at National University of Singapore (NUS)
--   🔭 Specialising in Machine Learning and Marketing Analytics
--   💿 Huge vinyl collector
--   🎧 _Ask me about my Spotify playlists_
+<h1>Hey, I'm Mervyn! 👋 </h1>
 
 <div id="header" align="center">
   <div id="badges">
@@ -18,8 +10,20 @@ Hey, I am Mervyn and I go by `undeser` on most online spaces.
     </a>
   </div>
 </div>
+<br>
 
-#### Tech to Earn Myself a Living
+<h2>About Me!</h2>
+
+-   🇸🇬 Living in Singapore
+-   💻 Final Year Computing (Business Analytics) at National University of Singapore (NUS)
+-   🔭 Specialising in Machine Learning and Marketing Analytics
+-   💿 Huge vinyl collector
+-   🎧 _Ask me about my Spotify playlists_
+
+
+<br>
+<h2>Favourite Tech & Software</h2>
+
 > Data Analytics & Visualisation
 <table>
   <tr>
