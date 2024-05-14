@@ -3,18 +3,119 @@
 Hey, I am Mervyn and I go by `undeser` on most online spaces.
 
 -   🇸🇬 Living in Singapore
--   💻 Penultimate Computing (Business Analytics) at National University of Singapore (NUS)
--   🔭 Working on my pet projects
+-   💻 Final Year Computing (Business Analytics) at National University of Singapore (NUS)
+-   🔭 Specialising in Machine Learning and Marketing Analytics
 -   💿 Huge vinyl collector
 -   🎧 _Ask me about my Spotify playlists_
 
-#### Connect with me on socials!
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/mervseah/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://open.spotify.com/user/1163571756?si=f107f55e9b8649b7">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+    </a>
+  </div>
+</div>
 
-[<img src = "https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" width="40">](https://github.com/undeser) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://www.linkedin.com/in/mervseah/) [<img src = "https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width = "40">](https://open.spotify.com/user/1163571756?si=f107f55e9b8649b7)
+#### Tech to Earn Myself a Living
+> Data Analytics & Visualisation
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+  <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://w7.pngwing.com/pngs/138/659/png-transparent-tableau-software-hd-logo.png" width="48" height="48" alt="Tableau" />
+      </a>
+      <br>Tableau
+    </td>
+  <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" height="48" alt="R" />
+      </a>
+      <br>R
+    </td>
+    </tr>
+</table>
 
-#### Gym Badges
+> Web Development & Frameworks
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="VueJS" />
+      </a>
+      <br>VueJS
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+  </tr>
+</table>
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">](https://www.python.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40">](https://www.java.com/en/) [<img src="https://www.svgrepo.com/download/374088/solidity.svg" width="40" height="40">](https://docs.soliditylang.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40">](https://react.dev/) [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="40" height="40">](https://nodejs.org/en) [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40">](https://html.spec.whatwg.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40">](https://www.w3.org/TR/CSS/#css) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40">](https://www.mysql.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40">](https://www.mongodb.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40">](https://www.r-project.org/) [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40">](https://www.adobe.com/products/photoshop.html) [<img src="https://camo.githubusercontent.com/ed44ae57571fe5fdba9c41a72c5bb0d2ed1dd86623c6d485ca248c61291bd6bc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34352f4e6f74696f6e5f6170705f6c6f676f2e706e67" width="40" height="40">](https://www.notion.so/)
+> Creative & Design Tools
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Adobe Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="48" height="48" alt="Adobe Illustrator" />
+      </a>
+      <br>Illustrator
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/788px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="Adobe Premiere Pro" />
+      </a>
+      <br>Premiere
+    </td>
+  </tr>
+</table>
+
 
 <!--
 <div style="width: 100%;">
