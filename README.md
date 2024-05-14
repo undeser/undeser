@@ -1,4 +1,7 @@
+<a href="#">
 <img src="./img/linkedinbanner.jpg" align="center">
+</a>
+<br><br>
 
 <div id="header" align="center">
   <div id="badges">
