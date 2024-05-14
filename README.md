@@ -24,31 +24,31 @@ Hey, I am Mervyn and I go by `undeser` on most online spaces.
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
   <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://w7.pngwing.com/pngs/138/659/png-transparent-tableau-software-hd-logo.png" width="48" height="48" alt="Tableau" />
       </a>
       <br>Tableau
     </td>
   <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" height="48" alt="R" />
       </a>
       <br>R
@@ -60,31 +60,31 @@ Hey, I am Mervyn and I go by `undeser` on most online spaces.
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="VueJS" />
       </a>
       <br>VueJS
     </td>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
@@ -96,19 +96,19 @@ Hey, I am Mervyn and I go by `undeser` on most online spaces.
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Adobe Photoshop" />
       </a>
       <br>Photoshop
     </td>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="48" height="48" alt="Adobe Illustrator" />
       </a>
       <br>Illustrator
     </td>
     <td align="center" width="100">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/788px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="Adobe Premiere Pro" />
       </a>
       <br>Premiere
