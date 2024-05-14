@@ -1,30 +1,38 @@
-<h1>Hey, I'm Mervyn! 👋 </h1>
+<img src="./img/linkedinbanner.jpg" align="center">
+<br>
+<br>
 
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/mervseah/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="mailto:6378ms@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
     <a href="https://open.spotify.com/user/1163571756?si=f107f55e9b8649b7">
       <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=undeser&base=1250&color=blue&abbreviated=true" alt=""/>
 </div>
-<br>
+
+<h1>Hey, I'm Mervyn! 👋 </h1>
 
 <h2>About Me!</h2>
 
 -   🇸🇬 Living in Singapore
 -   💻 Final Year Computing (Business Analytics) at National University of Singapore (NUS)
 -   🔭 Specialising in Machine Learning and Marketing Analytics
--   💿 Huge vinyl collector
--   🎧 _Ask me about my Spotify playlists_
-
+-   💿 Vinyl variant collector
+-   🎧 Spotify playlists curator
+-   🎶 Serial concert attendee
 
 <br>
 <h2>Favourite Tech & Software</h2>
 
 > Data Analytics & Visualisation
+
 <table>
   <tr>
     <td align="center" width="100">
@@ -47,7 +55,7 @@
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://w7.pngwing.com/pngs/138/659/png-transparent-tableau-software-hd-logo.png" width="48" height="48" alt="Tableau" />
+        <img src="https://assets.wheelhouse.com/media/_solution_logo_08102023_23795738.png" width="48" height="48" alt="Tableau" />
       </a>
       <br>Tableau
     </td>
@@ -61,6 +69,7 @@
 </table>
 
 > Web Development & Frameworks
+
 <table>
   <tr>
     <td align="center" width="100">
@@ -97,6 +106,7 @@
 </table>
 
 > Creative & Design Tools
+
 <table>
   <tr>
     <td align="center" width="100">
@@ -119,7 +129,6 @@
     </td>
   </tr>
 </table>
-
 
 <!--
 <div style="width: 100%;">
