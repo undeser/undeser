@@ -1,5 +1,5 @@
-<a href="#">
-<img src="./img/linkedinbanner.jpg" align="center">
+<a href="#" onclick="return false;">
+<img src="./img/linkedinbanner.jpg" alt="Banner" align="center">
 </a>
 <br><br>
 
@@ -15,10 +15,10 @@
       <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
   </div>
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=undeser&base=1000&color=blue" alt=""/></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=undeser&base=1000&color=blue" alt="" onclick="return false;"/></a>
 </div>
 
-<h1 align="center">Hi, I'm Mervyn! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a></h1>
+<h1 align="center">Hi, I'm Mervyn! <a href="#" onclick="return false;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a></h1>
 
 <h2>About Me!</h2>
 
@@ -37,31 +37,31 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
   <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://assets.wheelhouse.com/media/_solution_logo_08102023_23795738.png" width="48" height="48" alt="Tableau" />
       </a>
       <br>Tableau
     </td>
   <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" height="48" alt="R" />
       </a>
       <br>R
@@ -74,31 +74,31 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="VueJS" />
       </a>
       <br>VueJS
     </td>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
@@ -111,19 +111,19 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Adobe Photoshop" />
       </a>
       <br>Photoshop
     </td>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="48" height="48" alt="Adobe Illustrator" />
       </a>
       <br>Illustrator
     </td>
     <td align="center" width="100">
-      <a href="#">
+      <a href="#" onclick="return false;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/788px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="Adobe Premiere Pro" />
       </a>
       <br>Premiere
