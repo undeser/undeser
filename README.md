@@ -128,6 +128,12 @@
       </a>
       <br>Premiere
     </td>
+    <td align="center" width="100">
+      <a href="#" onclick="return false;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" width="48" height="48" alt="Adobe InDesign" />
+      </a>
+      <br>InDesign
+    </td>
   </tr>
 </table>
 
