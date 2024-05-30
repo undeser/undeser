@@ -5,11 +5,14 @@
 
 <div id="header" align="center">
   <div id="badges">
+    <a href="https://portfoliowebsite-undesers-projects.vercel.app/">
+      <img src="https://img.shields.io/badge/website-2C3D55?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
     <a href="https://www.linkedin.com/in/mervseah/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:6378ms@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://open.spotify.com/user/1163571756?si=f107f55e9b8649b7">
       <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
