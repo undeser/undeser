@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://portfoliowebsite-undesers-projects.vercel.app/">
+    <a href="https://mervseah.com/">
       <img src="https://img.shields.io/badge/website-2C3D55?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/mervseah/">
