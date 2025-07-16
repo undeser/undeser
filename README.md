@@ -26,7 +26,7 @@
 <h2>About Me!</h2>
 
 -   🇸🇬 Living in Singapore
--   💻 Final Year Computing Undergraduate at National University of Singapore (NUS)
+-   💻 Computing Graduate at National University of Singapore (NUS)
 -   🔭 Specialising in Machine Learning and Marketing Analytics
 -   💿 Vinyl variant collector
 -   🎧 Spotify playlists curator
